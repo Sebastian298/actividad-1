@@ -1,0 +1,36 @@
+# Reportes
+reporte_fibonacci_divide_y_venceras.md
+reporte_fibonacci_divide_y_venceras.pdf
+
+# Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribución y empaquetado
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+pip-wheel-metadata/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# Pruebas y comprobación de tipos
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Herramientas
+.python-version
+.ipynb_checkpoints/
